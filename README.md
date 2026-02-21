@@ -22,10 +22,6 @@ Party Box Desktop est la version application de Party Box, disponible sur Window
 - 🪟 Windows → .exe
 - 🍎 Mac → .dmg
 
-## 🛠️ Technologies
-- Electron
-- HTML / CSS / JavaScript
-
 ## 📬 Contact
 partybox.mail@icloud.com
 
